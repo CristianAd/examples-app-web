@@ -1,0 +1,7 @@
+.miCaja {
+  background-color: yellow; /* Color inicial de las cajas */
+}
+
+.cajaModificada {
+  background-color: red; /* Color modificado de las cajas */
+}
